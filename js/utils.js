@@ -1,0 +1,1 @@
+// Funções para verificar a altura da div das tarefas, no caso <ul>  
